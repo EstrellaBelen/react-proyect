@@ -108,7 +108,7 @@ const RandomUsers = () => {
 const Contact = () => (
   <div className='section'>
     <h2>Contáctanos</h2>
-    <form className="contact-form">
+    <form className='contact-form'>
       <input type="text" placeholder="Nombre" />
       <input type="email" placeholder="Correo electrónico" />
       <textarea placeholder="Mensaje"></textarea>
